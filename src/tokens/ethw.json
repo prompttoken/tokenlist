@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MEO A",
+    "symbol": "MEOA",
+    "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
+    "chainId": 10001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoa.png"
+  },
+  {
+    "name": "MEO B",
+    "symbol": "MEOB",
+    "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
+    "chainId": 10001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meob.png"
+  },
+  {
+    "name": "MEO C",
+    "symbol": "MEOC",
+    "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
+    "chainId": 10001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoc.png"
+  }  
+]

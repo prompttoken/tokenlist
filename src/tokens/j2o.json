@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Wrapped TARO",
+    "symbol": "WTARO",
+    "address": "0x2923179D53eCB1DE140A673C2De4E2da30037305",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jfin.png"
+  },
+  {
+    "name": "PROMPTKA POINT",
+    "symbol": "PKA",
+    "address": "0xA21B21fe4263Ef932D0359E1e733a54f1838f793",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png"
+  },
+  {
+    "name": "PROMPTKA POINT #1",
+    "symbol": "PKA1",
+    "address": "0xf724d6D61aE68ca8df356b9FB6583bfEE5ABAe8c",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka1.png"
+  },
+  {
+    "name": "PROMPTKA POINT #2",
+    "symbol": "PKA2",
+    "address": "0xf30aE4ea8EC6266060Ce8b97fd90F8d6A9EFC944",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka2.png"
+  }
+
+]

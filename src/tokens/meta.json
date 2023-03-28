@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mar  Wrapped META",
+    "symbol": "MMETA",
+    "address": "0xa47cB015472A8FD58169C10C731905cfD9e9De10",
+    "chainId": 17,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meta.png"
+  },
+  {
+    "name": "MVP COIN",
+    "symbol": "MVP",
+    "address": "0x9737e3Be617d482cFCF013358e1DEB188aB63E0B",
+    "chainId": 17,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/mvp.png"
+  },  
+  {
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "address": "0x028f11307f432722DD8fBB0503899746e7adBfc0",
+    "chainId": 17,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "name": "KUSD",
+    "symbol": "KUSD",
+    "address": "0x244395d1B683A2afe0CE4259CA5cf9E38cF9a6dE",
+    "chainId": 17,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/kusd.png"
+  },
+  {
+    "name": "Wrapped META",
+    "symbol": "WMETA",
+    "address": "0x5462f746B6aD010c4E2B67dfD871767d49d151fA",
+    "chainId": 17,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meta.png"
+  }
+]

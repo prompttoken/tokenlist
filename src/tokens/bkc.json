@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Wrapped Token",
+    "symbol": "WKUB",
+    "address": "0x562875853d0a0711891bb847d5aae46a2b8a08f2",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/bkc.png"
+  },
+  {
+    "name": "MVP COIN",
+    "symbol": "MVP",
+    "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/mvp.png"
+  },  
+  {
+    "name": "META TOKEN",
+    "symbol": "META",
+    "address": "0xb2D5a5AEC0C7f2Cac33DcdF6D7B47Ab6Dd403246",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meta.png"
+  },  
+  {
+    "name": "MEO Peg USDC",
+    "symbol": "USDC",
+    "address": "0x3a5d71f3e0db649f5b1c9F96Da657A36dBC03eFD",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+  },
+  {
+    "name": "MEO Peg USDT",
+    "symbol": "USDT",
+    "address": "0xDD845a48214B2cBC7Dae413B5dbc14C0bd415B18",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/busdt_32.png"
+  },
+  {
+    "name": "MEO Peg DAI",
+    "symbol": "DAI",
+    "address": "0x1669C7b7Ce4d18E4eadb52701F8E945622379B8F",
+    "chainId": 96,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/dai_32.png"
+  }
+  
+]

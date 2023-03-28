@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wrapped JFIN",
+    "symbol": "WJFIN",
+    "address": "0x5383674129a4a5B234c8a18cE6e69322f573FE57",
+    "chainId": 3502,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jfin.png"
+  },
+  {
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "address": "0x1003b56F9AC197A780037FA54c287144067bB43D",
+    "chainId": 3502,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  }
+  
+]
