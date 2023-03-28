@@ -1,6 +1,6 @@
 {
   "name": "PointKA Tokens List",
-  "timestamp": "2023-03-28T07:29:47.312Z",
+  "timestamp": "2023-03-28T07:53:55.143Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -948,14 +948,6 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka2.png"
-    },
-    {
-      "name": "Wrapped TARO",
-      "symbol": "WTARO",
-      "address": "0x2923179D53eCB1DE140A673C2De4E2da30037305",
-      "chainId": 35011,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jfin.png"
     },
     {
       "name": "MEO",

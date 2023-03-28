@@ -1,13 +1,5 @@
 [
   {
-    "name": "Wrapped TARO",
-    "symbol": "WTARO",
-    "address": "0x2923179D53eCB1DE140A673C2De4E2da30037305",
-    "chainId": 35011,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jfin.png"
-  },
-  {
     "name": "PROMPTKA POINT",
     "symbol": "PKA",
     "address": "0xA21B21fe4263Ef932D0359E1e733a54f1838f793",
