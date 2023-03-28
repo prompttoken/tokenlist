@@ -37,7 +37,7 @@ module.exports = function buildList() {
     version: {
       major: +parsed[0],
       minor: +parsed[1],
-      patch: +parsed[4],
+      patch: +parsed[2],
     },
     tags: {},
     logoURI:
