@@ -1,10 +1,10 @@
 {
   "name": "PointKA Tokens List",
-  "timestamp": "2023-03-28T19:36:25.139Z",
+  "timestamp": "2023-03-28T19:39:33.410Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
@@ -808,14 +808,6 @@
     {
       "name": "MVP COIN",
       "symbol": "MVP",
-      "address": "0xe6a05Dd0c9639EEa47C709bb6af8eD2BcDD49bae",
-      "chainId": 96,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/mvp.png"
-    },
-    {
-      "name": "MVP COIN",
-      "symbol": "MVP",
       "address": "0xDD7847deD760a8e7FB882B4A9B0e990323415ed9",
       "chainId": 96,
       "decimals": 18,
@@ -948,6 +940,14 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/clp.png"
+    },
+    {
+      "name": "MVP COIN",
+      "symbol": "MVP",
+      "address": "0xe6a05Dd0c9639EEa47C709bb6af8eD2BcDD49bae",
+      "chainId": 35011,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/mvp.png"
     },
     {
       "name": "PROMPTKA POINT",

@@ -43,7 +43,7 @@
     "name": "MVP COIN",
     "symbol": "MVP",
     "address": "0xe6a05Dd0c9639EEa47C709bb6af8eD2BcDD49bae",
-    "chainId": 96,
+    "chainId": 35011,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/mvp.png"
   }  
