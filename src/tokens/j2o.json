@@ -30,6 +30,13 @@
     "chainId": 35011,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/clp.png"
+  },
+  {
+    "name": "BASE POINT",
+    "symbol": "BASE",
+    "address": "0xbF4402DEac75A8585D2E667e837eD8Ef0777B618",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/taro.png"
   }
-
 ]
