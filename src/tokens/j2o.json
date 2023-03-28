@@ -22,6 +22,14 @@
     "chainId": 35011,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka2.png"
+  },
+  {
+    "name": "CLASS POINT",
+    "symbol": "CLP",
+    "address": "0x09cC649C348D261434dAe4F6CFa9aB2E97ABC9aA",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/clp.png"
   }
 
 ]
