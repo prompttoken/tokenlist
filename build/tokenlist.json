@@ -1,6 +1,6 @@
 {
   "name": "PointKA Tokens List",
-  "timestamp": "2023-03-28T06:41:40.443Z",
+  "timestamp": "2023-03-28T07:29:47.312Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -934,7 +934,7 @@
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png"
     },
     {
-      "name": "PROMPTKA POINT #1",
+      "name": "PROMPTKA POINT 1",
       "symbol": "PKA1",
       "address": "0xf724d6D61aE68ca8df356b9FB6583bfEE5ABAe8c",
       "chainId": 35011,
@@ -942,7 +942,7 @@
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka1.png"
     },
     {
-      "name": "PROMPTKA POINT #2",
+      "name": "PROMPTKA POINT 2",
       "symbol": "PKA2",
       "address": "0xf30aE4ea8EC6266060Ce8b97fd90F8d6A9EFC944",
       "chainId": 35011,
