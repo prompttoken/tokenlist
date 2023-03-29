@@ -1,10 +1,10 @@
 {
   "name": "PointKA Tokens List",
-  "timestamp": "2023-03-29T06:07:20.978Z",
+  "timestamp": "2023-03-29T06:34:03.851Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
@@ -975,8 +975,8 @@
     },
     {
       "name": "RADARS POINT",
-      "symbol": "RAD",
-      "address": "0x592Ed14FCc815D3E885d2C2D7bB506a537d377d2",
+      "symbol": "RAP",
+      "address": "0x9670DBD5E422A42eFC4b8D5b06F42bD48EA9e6A1",
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/radars.png"
