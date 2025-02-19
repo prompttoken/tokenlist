@@ -1,10 +1,10 @@
 {
   "name": "PointKA Tokens List",
-  "timestamp": "2025-02-19T17:24:50.475Z",
+  "timestamp": "2025-02-19T17:28:27.087Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
