@@ -29,6 +29,7 @@ const nova = require("./tokens/nova.json");
 const ethw = require("./tokens/ethw.json");
 const meta = require("./tokens/meta.json");
 const j2o = require("./tokens/j2o.json");
+const op = require("./tokens/optimism.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -53,6 +54,7 @@ module.exports = function buildList() {
       ...jfin,
       ...nova,
       ...ethw,
+      ...op,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
