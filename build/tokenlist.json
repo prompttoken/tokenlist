@@ -1,6 +1,6 @@
 {
   "name": "USDOG Tokens List",
-  "timestamp": "2025-02-20T14:41:36.999Z",
+  "timestamp": "2025-02-20T16:42:41.916Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -20,6 +20,24 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "tags": []
+    },
+    {
+      "name": "AIEAGLE",
+      "symbol": "EIA",
+      "address": "0x9999999E5812Aa4507324Fae84A8b056E04E7982",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/token/images/0x9999999E5812Aa4507324Fae84A8b056E04E7982.png",
+      "tags": []
+    },
+    {
+      "name": "PointLedger",
+      "symbol": "PLG",
+      "address": "0x8888889999367E6bE7F7850cda9A43603cec65dE",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/token/images/0x8888889999367E6bE7F7850cda9A43603cec65dE.png",
       "tags": []
     },
     {
