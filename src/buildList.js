@@ -33,7 +33,7 @@ const op = require("./tokens/optimism.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "PointKA Tokens List",
+    name: "USDOG Tokens List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -42,8 +42,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
-    keywords: ["pka", "default"],
+      "https://pub-89889c1f7aea4fc08378f41c30a7fa44.r2.dev/usdog-2.svg",
+    keywords: ["usdog", "default"],
     tokens: [
       ...j2o,
       ...bkc,
@@ -52,8 +52,6 @@ module.exports = function buildList() {
       ...meta,
       ...jfinTest,
       ...jfin,
-      ...nova,
-      ...ethw,
       ...op,
     ]
       // sort them by symbol for easy readability

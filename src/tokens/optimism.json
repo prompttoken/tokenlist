@@ -3,8 +3,10 @@
     "name": "Wrapped Ether",
     "address": "0x4200000000000000000000000000000000000006",
     "symbol": "WETH",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": []
 
   },
   {
@@ -13,7 +15,8 @@
     "address": "0x55555552297C3acd3428D0eE752aDF47bbB74AC6",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/usdog-256.png"
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/usdog-256.png",
+    "tags": []
   },
   {
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -21,6 +24,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "tags": []
   }
 ]

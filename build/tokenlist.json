@@ -1,15 +1,15 @@
 {
-  "name": "PointKA Tokens List",
-  "timestamp": "2025-02-19T17:34:52.951Z",
+  "name": "USDOG Tokens List",
+  "timestamp": "2025-02-20T14:41:36.999Z",
   "version": {
     "major": 1,
     "minor": 1,
     "patch": 11
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
+  "logoURI": "https://pub-89889c1f7aea4fc08378f41c30a7fa44.r2.dev/usdog-2.svg",
   "keywords": [
-    "pka",
+    "usdog",
     "default"
   ],
   "tokens": [
@@ -19,7 +19,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "tags": []
     },
     {
       "name": "USDOG",
@@ -27,7 +28,17 @@
       "address": "0x55555552297C3acd3428D0eE752aDF47bbB74AC6",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/usdog-256.png"
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/usdog-256.png",
+      "tags": []
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "tags": []
     },
     {
       "name": "BUSD",
@@ -918,30 +929,6 @@
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jfin.png"
     },
     {
-      "name": "MEO A",
-      "symbol": "MEOA",
-      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
-      "chainId": 10001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoa.png"
-    },
-    {
-      "name": "MEO B",
-      "symbol": "MEOB",
-      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
-      "chainId": 10001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meob.png"
-    },
-    {
-      "name": "MEO C",
-      "symbol": "MEOC",
-      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
-      "chainId": 10001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoc.png"
-    },
-    {
       "name": "BASE POINT",
       "symbol": "BASE",
       "address": "0xbF4402DEac75A8585D2E667e837eD8Ef0777B618",
@@ -996,45 +983,6 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/radars.png"
-    },
-    {
-      "name": "MEO",
-      "symbol": "MEO",
-      "address": "0x4a3747eC54E0F34C23b0b543262B1A902058A41f",
-      "chainId": 42170,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meo.png"
-    },
-    {
-      "name": "MEO A",
-      "symbol": "MEOA",
-      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
-      "chainId": 42170,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoa.png"
-    },
-    {
-      "name": "MEO B",
-      "symbol": "MEOB",
-      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
-      "chainId": 42170,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meob.png"
-    },
-    {
-      "name": "MEO C",
-      "symbol": "MEOC",
-      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
-      "chainId": 42170,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoc.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
 }
