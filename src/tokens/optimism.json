@@ -44,5 +44,14 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "tags": []
+  },
+  {
+    "address": "0x8888888323a6EF6F5F89aFcC60Fc1D0b95332c90",
+    "chainId": 10,
+    "name": "0xL3 Token",
+    "symbol": "XL3",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/token/images/0x8888888323a6EF6F5F89aFcC60Fc1D0b95332c90.png",
+    "tags": []
   }
 ]
