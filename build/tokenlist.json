@@ -1,6 +1,6 @@
 {
   "name": "USDOG Tokens List",
-  "timestamp": "2025-02-25T12:02:22.174Z",
+  "timestamp": "2025-02-25T13:24:02.267Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -974,11 +974,11 @@
     },
     {
       "name": "Wrapped XL3",
-      "address": "0x4200000000000000000000000000000000000006",
+      "address": "0x66F558C662Ac7AA754A592D5F51c525Cb3C15554",
       "symbol": "WXL3",
       "chainId": 7117,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/0xl3/assets/main/0xl3.svg",
       "tags": []
     },
     {
