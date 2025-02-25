@@ -1,6 +1,6 @@
 {
   "name": "USDOG Tokens List",
-  "timestamp": "2025-02-25T13:24:02.267Z",
+  "timestamp": "2025-02-25T14:50:39.907Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -974,7 +974,7 @@
     },
     {
       "name": "Wrapped XL3",
-      "address": "0x66F558C662Ac7AA754A592D5F51c525Cb3C15554",
+      "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WXL3",
       "chainId": 7117,
       "decimals": 18,
