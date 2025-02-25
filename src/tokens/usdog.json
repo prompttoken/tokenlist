@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Wrapped XL3",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WXL3",
+    "chainId": 7117,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "tags": []
+
+  },
+  {
+    "name": "USDOG",
+    "symbol": "USDOG",
+    "address": "0x5D2779D15804d32D233b5823bC12F435D41c9706",
+    "chainId": 7117,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/usdog-256.png",
+    "tags": []
+  },
+  {
+    "name": "SPECTRUMLIVE",
+    "symbol": "SPL",
+    "address": "0xD000FDad3a757b91f44FcaDff1d39a232b78848C",
+    "chainId": 7117,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/spl.svg"
+  }
+]
