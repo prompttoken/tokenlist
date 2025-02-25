@@ -1,6 +1,6 @@
 {
   "name": "USDOG Tokens List",
-  "timestamp": "2025-02-25T11:55:20.229Z",
+  "timestamp": "2025-02-25T12:02:22.174Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -961,7 +961,7 @@
       "address": "0xD000FDad3a757b91f44FcaDff1d39a232b78848C",
       "chainId": 7117,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/spl.svg"
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/token/images/spl.svg"
     },
     {
       "name": "USDOG",

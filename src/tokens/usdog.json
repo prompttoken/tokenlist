@@ -5,7 +5,7 @@
     "symbol": "WXL3",
     "chainId": 7117,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/0xl3/assets/main/0xl3.svg",
     "tags": []
 
   },
@@ -24,6 +24,6 @@
     "address": "0xD000FDad3a757b91f44FcaDff1d39a232b78848C",
     "chainId": 7117,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/spl.svg"
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/token/images/spl.svg"
   }
 ]
